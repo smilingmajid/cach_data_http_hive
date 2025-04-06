@@ -1,6 +1,7 @@
+import '../src/cach_manager.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
-import 'cache_manager.dart';
+
 
 class DataService extends GetxController {
   final CacheManager cacheManager;

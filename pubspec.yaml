@@ -1,7 +1,8 @@
-name: cach_data
-description: "A new Flutter package project."
+name: cach_data_http_hive
+description: "A Flutter package for efficient data caching and HTTP request handling using Hive and GetX."
 version: 0.0.1
-homepage:
+homepage: https://github.com/smilingmajid/cach_data_http_hive
+repository: https://github.com/smilingmajid/cach_data_http_hive
 
 environment:
   sdk: ^3.6.2
